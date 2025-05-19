@@ -1,5 +1,5 @@
 # projeto-base-kaggle-olist
-
+## Projeto desenvolvido em 17/05/2025 por Thifany Martins
 Projeto de análise exploratória utilizando a base **[Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** disponível no Kaggle.
 
 ## 📘 Sobre o projeto
